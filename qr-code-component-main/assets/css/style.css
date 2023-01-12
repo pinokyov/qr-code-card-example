@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    background-color: #d5e1ef;
+}
+
+@font-face {
+    font-family: 'URWGeometricExtraBold';
+    src: url('../fonts/URWGeometricExtraBold.otf');
+}
+
+@font-face {
+    font-family: 'RFlexRegular';
+    src: url('../fonts/RFlexRegular.ttf');
+}
+
+@font-face {
+    font-family: 'NeueRedial';
+    src: url("../fonts/Neue-Radial-C-Extra-Bold.ttf");
+}
+
+.central-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qr-card {
+    width: 260px;
+    height: 420px;
+    padding: 15px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 5px 5px 0 rgba(153, 153, 153, 0.15), 0 6px 20px 0 rgba(153, 153, 153,0.15);
+}
+
+.qr-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.qr-content{
+    padding: 15px;
+}
+
+.qr-content h4 {
+    font-family: NeueRedial;
+    font-size: 18px;
+    color: #17213b;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.qr-content p {
+    font-family: RFlexRegular;
+    font-size: 14px;
+    color: #999da3;
+}
