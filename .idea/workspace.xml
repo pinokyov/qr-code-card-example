@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8656847-41ab-46e7-8ff9-c6e09b1e70df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/qr-code-component-main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/README-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/assets/fonts/Neue-Radial-C-Extra-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/assets/fonts/RFlexRegular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/assets/fonts/URWGeometricExtraBold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/assets/images/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/assets/images/image-qr-code.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/design/desktop-design.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/design/desktop-preview.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/design/mobile-design.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code-component-main/style-guide.md" beforeDir="false" />
+    <list default="true" id="a8656847-41ab-46e7-8ff9-c6e09b1e70df" name="Changes" comment="Card Design">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +27,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Habibhan AKDENIZ/Desktop/qr-code-card-example",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Habibhan AKDENIZ/Desktop/qr-code-card-example&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,11 +49,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673524398288</updated>
-      <workItem from="1673524399413" duration="455000" />
+      <workItem from="1673524399413" duration="1696000" />
+      <workItem from="1673532799348" duration="704000" />
+      <workItem from="1673600538804" duration="1238000" />
     </task>
+    <task id="LOCAL-00001" summary="Card Design">
+      <created>1673524891095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673524891095</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Card Design">
+      <created>1673524907413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673524907413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Card Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Card Design" />
   </component>
 </project>
